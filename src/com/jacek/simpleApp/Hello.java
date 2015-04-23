@@ -3,6 +3,6 @@ package com.jacek.simpleApp;
 public class Hello {
 
     public static void main(String[] args) {
-	    System.out.println("Hello 4");
+	    System.out.println("Hello 5");
     }
 }
